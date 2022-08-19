@@ -23,3 +23,21 @@
 3.1. Create a super user for the admin panel
 3.2. Log into the admin panel
 4. Create 3 posts with dummy data
+
+
+
+
+
+
+# Implement password change
+
+1. Create a template for the password change view that allows us to render a form
+1.1. The template must match the look and feel of our site.
+
+2. Create a template for the password change done view that allows us to display a confirmation message, letting us know our password change was successful.
+2.1. The template must match the look and feel of our site.
+
+
+
+password_change_form.html
+registration/password_change_done.html

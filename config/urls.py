@@ -23,3 +23,6 @@ urlpatterns = [
     path('accounts/', include('django.contrib.auth.urls')),
     path('accounts/', include('accounts.urls')),
 ]
+
+
+# django auth contrib statement gives us access to django views and urlpatterns such as login, password change
